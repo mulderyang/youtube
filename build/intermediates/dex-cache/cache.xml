@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\AndroidStudioProjects\youtube1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ab7cca5fc126a41fed7faf6103081b5d09853735">
+        <dex dex="F:\Android\AndroidStudioProjects\youtube1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b78eb3ca8e884034b77fc17c93d130e79860ff49.jar" />
+    </item>
+
+</items>
